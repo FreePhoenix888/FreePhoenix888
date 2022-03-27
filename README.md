@@ -22,7 +22,7 @@
     <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://img.icons8.com/color/48/markdown.png"/> </a> 
 </div>
 
-## ✉️ Contact me:
+## 💬 Contact me:
 <div>
     <a href="https://t.me/FreePhoenix888" target="_blank"> <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/> </a> 
     <a href="https://discord.com/users/298466999426613268" target="_blank"> <img src="https://img.icons8.com/color/48/discord-logo.png"/> </a> 
