@@ -30,6 +30,8 @@
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.icons8.com/fluency/48/windows-10.png"/> </a> 
     <a href="https://www.nuget.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nuget-a-free-and-open-source-package-manager-designed-for-the-microsoft-development-platform-logo-color-tal-revivo.png"/> </a> 
     <a href="https://www.google.com" target="_blank"> <img src="https://img.icons8.com/color/48/google-logo.png"/> </a> 
+    <a href="https://habitica.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/3834775?s=48&v=4?"/> </a> 
+    <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/color/48/jetbrains.png"/> </a> 
 </div>
 
 ## 💬 Contact me:
