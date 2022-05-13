@@ -17,8 +17,8 @@
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a> 
         <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a> 
         <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> </a> 
-        <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a>
-        <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/kotlin.png"/> </a>
+        <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/kotlin.png"/> </a>
+        <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> </a>
         <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/python--v1.png"/> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png"/> </a> 
         <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png"/> </a> 
