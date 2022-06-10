@@ -72,7 +72,7 @@
         <a href="https://webpack.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png"/> </a> 
         <a href="https://reactjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png"/> </a>
         <a href="https://www.google.com" target="_blank"> <img src="https://img.icons8.com/color/48/google-logo.png"/> </a> 
-        <a href="https://habitica.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/3834775?s=48&v=4?"/> </a> 
+<!--         <a href="https://habitica.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/3834775?s=48&v=4?"/> </a>  -->
         <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/color/48/jetbrains.png"/> </a>
     </td>
   </tr>
