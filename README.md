@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Programming_language" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-coding-language-computer-science-flaticons-lineal-color-flat-icons-2.png"/> </a> 
+        <a href="https://en.wikipedia.org/wiki/Language" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-coding-language-computer-science-flaticons-lineal-color-flat-icons-2.png"/> </a> 
     </td>
     <td>
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a> 
