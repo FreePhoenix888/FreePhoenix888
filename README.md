@@ -60,6 +60,7 @@
         <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/npm.png"/> </a> 
         <a href="https://yarnpkg.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png"/> </a> 
         <a href="https://www.nuget.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nuget-a-free-and-open-source-package-manager-designed-for-the-microsoft-development-platform-logo-color-tal-revivo.png"/> </a>
+        <a href="https://conan.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15212165?s=48&v=4"/> </a>
     </td>
   </tr>
   <tr>
