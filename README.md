@@ -2,7 +2,7 @@
     <img src="https://img.icons8.com/color/48/developer--v1.png"/>
 </div>
 
-<h2>🛠️ Tools I use:</h2>
+<h1>🛠️ Tools I use:</h2>
 
 <table>
   <tr>
@@ -79,8 +79,96 @@
   </tr>
 </table>
 
-<h2>💬 Contact me:</h2>
+<h1>💬 Contact me:</h2>
 <div>
     <a href="https://t.me/FreePhoenix888" target="_blank"> <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/> </a> 
     <a href="https://discord.com/users/298466999426613268" target="_blank"> <img src="https://img.icons8.com/color/48/discord-logo.png"/> </a> 
+</div>
+
+<h1> Main contributions:</h2>
+<div>
+  <h3>SaveMyLife</h3>
+  <h4>An android app to contact your friends when you are in danger</h4>
+  <p>Tools: Kotlin, Room DB, Compose</p>
+  <p>https://github.com/FreePhoenix888/SaveMyLife</p>
+  <h3>Habitica subtasks helper</h3>
+  <h4>Website for splitting plain text into subtasks and saving them in the Habitica app.</h4>
+  <p>Tools: React, SCSS, TypeScript</p>
+  <p>https://github.com/FreePhoenix888/Habitica-Subtasks-Helper</p>
+  <h3>linksplatform/bot</h3>
+  <h4>A console application that lets automate actions by using one-time actions or actions triggered by triggers.</h4>
+  <p>Triggers:</p>
+  <ul>
+    <li>Change default branch for organization repositories</li>
+    <li>Change default branch of pull requests for organization repositories</li>
+    <li>Create and save migrations for organization repositories</li>
+    <li>Merge dependabot dependency bumps</li>
+    <li>Get contributors in n time to organization repositories</li>
+    <li>Decorator to execute only if issue's author is organization admin</li>
+  </ul>
+  <p>One-time actions:</p>
+  <ul>
+    <li>Remove project from sln</li>
+  </ul>
+  <p>Trader bot to trade on Tinkoff investment platform</p>
+  <p>Tools: C#, python</p>
+  <p>https://github.com/linksplatform/Bot</p>
+  <h3>linksplatform/memory</h3>
+  <h4>A library for memory management simplification.</h4>
+  <ul>
+    <li>Made CRUD methods to use callbacks</li>
+    <li>Translated code from C# to C++</li>
+  </ul>
+  <p>Tools: C++</p>
+  <p>https://github.com/linksplatform/Memory</p>
+  <h3>linksplatform/data</h3>
+  <h4>A library for links storage implementation.</h4>
+  <ul>
+    <li>Made CRUD methods of memory managers to use callbacks</li>
+    <li>Translated code from C# to C++</li>
+  </ul>
+  <p>Tools: C#, C++</p>
+  <p>https://github.com/linksplatform/Data</p>
+  <h3>linksplatform/data.doublets</h3>
+  <h4>A library with links storage implementation called doublets.</h4>
+  <ul>
+    <li>Made CRUD methods of memory managers to use callbacks</li>
+    <li>Translated code from C# to C++</li>
+  </ul>
+  <p>Tools: C#, C++</p>
+  <p>https://github.com/linksplatform/Data.Doublets</p>
+  <h3>linksplatform/data.doublets.sequences</h3>
+  <h4>A library for doublets sequences management simplification.</h4>
+  <ul>
+    <li>Created Byte converters: https://github.com/linksplatform/Data.Doublets.Sequences/tree/main/csharp/Platform.Data.Doublets.Sequences/Numbers/Byte</li>
+    <li>Created Rational number converters: https://github.com/linksplatform/Data.Doublets.Sequences/tree/main/csharp/Platform.Data.Doublets.Sequences/Numbers/Rational</li>
+    <li>Created BigInteger converters: https://github.com/linksplatform/Data.Doublets.Sequences/tree/main/csharp/Platform.Data.Doublets.Sequences/Numbers/Raw</li>
+  </ul>
+  <p>Tools: C#</p>
+  <p>https://github.com/linksplatform/Data.Doublets.Sequences</p>
+  <h3>linksplatform/data.doublets.json</h3>
+  <h4>A library, console applications, tools to import json to links storage and export json from links storage.</h4>
+  <p>A library to convert json to doublets and vice versa.</p>
+  <p>Tools: C#</p>
+  <p>https://github.com/linksplatform/Data.Doublets.Json</p>
+  <h3>linksplatform/data.doublets.xml</h3>
+  <h4>A library, console applications, tools to import xml to links storage and export xml from links storage.</h4>
+  <p>A library to convert xml to doublets and vice versa.</p>
+  <p>Tools: C#</p>
+  <p>https://github.com/linksplatform/Data.Doublets.Xml</p>
+  <h3>linksplatform/data.doublets.gql</h3>
+  <p>A gql server console application to work with doublets storage.</p>
+  <p>Tools: C#, ASP.Net, Rust, async-graphql</p>
+  <p>https://github.com/linksplatform/Data.Doublets.Gql</p>
+  <h3>linksplatform/data.doublets.gql.client</h3>
+  <p>A gql client to work with doublets storage.</p>
+  <p>Tools: C#</p>
+  <p>https://github.com/linksplatform/Data.Doublets.Gql.Client</p>
+  <h3>linksplatform/scripts</h3>
+  <ul>
+    <li>One-time scripts for users</li>
+    <li>Scripts for CI/CD</li>
+  </ul>
+  <p>Tools: bash</p>
+  <p>https://github.com/linksplatform/Scripts</p>
 </div>
