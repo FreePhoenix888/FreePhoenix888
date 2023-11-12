@@ -265,5 +265,13 @@
   <p>A collection of reusable github workflows</p>
   <p>Tools: Yml, Github Actions, JavaScript, TypeScript ...</p>
   <p>https://github.com/deep-foundation/workflows</p>
+
+  <h3>deep-foundation/scripts</h3>
+  <p>A collection of scripts and configs</p>
+  <ul>
+    <li>Added script and configs for running self-hosted SweepAi on Azure</li>
+  </ul>
+  <p>Tools: Yml, Bash ...</p>
+  <p>https://github.com/deep-foundation/scripts</p>
   
 </div>
