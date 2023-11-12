@@ -519,7 +519,25 @@
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/firebase-push-notification</p>
 
-  
+  <h3>deep-foundation/deep-import</h3>
+  <p>A TypeScript library and CLI application to import links to deep</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/deep-import</p>
+
+  <h3>deep-foundation/deep-export</h3>
+  <p>A TypeScript library and CLI application to export links from deep</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/deep-export</p>
 
 
   
