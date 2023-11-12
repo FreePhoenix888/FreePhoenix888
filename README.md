@@ -234,35 +234,44 @@
 
   <h3>deep-foundation/deep-memo-app</h3>
   <p>A NextJS application for synchronizing user data to Deep</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
   <p>Tools: JavaScript, TypeScript, Bash, NextJS, React, Deep, Json ...</p>
   <p>https://github.com/deep-foundation/deep-memo-app</p>
 
   <h3>deep-foundation/deepcase, deep-foundation/deepcase-app</h3>
-  <p>A NextJS application that is considered as the main Graphical User Interface for Deep</p>
+  <p>A NextJS application that is considered the main Graphical User Interface for Deep</p>
   <ul>
-    <li>Improvements</li>
-    <li>Bugfixes</li>
+    <li>Development</li>
+    <li>Github Actions</li>
   </ul>
   <p>Tools: JavaScript, TypeScript, Bash, NextJS, React, Deep, ...</p>
   <p>https://github.com/deep-foundation/deepcase , https://github.com/deep-foundation/deepcase-app</p>
 
   <h3>deep-foundation/object-to-links-async-converter</h3>
   <p>A deep package for converting object to links</p>
+    <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
   <p>Tools: JavaScript, TypeScript, Bash, Deep, Json...</p>
   <p>https://github.com/deep-foundation/object-to-links-async-converter</p>
 
   <h3>deep-foundation/dev</h3>
   <p>A monorepository for running Deep</p>
-  <p>Tools: JavaScript, TypeScript, Bash, Deep, ...</p>
-  <p>https://github.com/deep-foundation/dev</p>
-
-  <h3>deep-foundation/dev</h3>
-  <p>A monorepository for running Deep</p>
+  <ul>
+    <li>Development</li>
+  </ul>
   <p>Tools: JavaScript, TypeScript, Bash, Deep, ...</p>
   <p>https://github.com/deep-foundation/dev</p>
 
   <h3>deep-foundation/workflows</h3>
   <p>A collection of reusable github workflows</p>
+  <ul>
+    <li>npm-publish.yml</li>
+  </ul>
   <p>Tools: Yml, Github Actions, JavaScript, TypeScript ...</p>
   <p>https://github.com/deep-foundation/workflows</p>
 
@@ -273,5 +282,96 @@
   </ul>
   <p>Tools: Yml, Bash ...</p>
   <p>https://github.com/deep-foundation/scripts</p>
+
+  <h3>deep-foundation/npm-packager</h3>
+  <p>A collection of scripts and configs</p>
+  <ul>
+    <li>Development</li>
+    <li>Added NpmPackagerProxy to use npm-packager in JavaScript easily</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, Deep...</p>
+  <p>https://github.com/deep-foundation/npm-packager</p>
+
+  <h3>deep-foundation/boolean</h3>
+  <p>A deep package for having boolean values</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: Deep...</p>
+  <p>https://github.com/deep-foundation/boolean</p>
+
+  <h3>deep-foundation/boolean</h3>
+  <p>A deep package for having boolean values</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: Deep...</p>
+  <p>https://github.com/deep-foundation/boolean</p>
+
+  <h3>deep-foundation/capacitor-voice-recorder</h3>
+  <p>A deep package for recording audio. A wrapper around capacitor-voice-recorder</p>
+  <ul>
+    <li>Development</li>
+    <li>Reviews</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-voice-recorder</p>
+
+  <h3>deep-foundation/react-hasura</h3>
+  <p>A library for working with Deep in react</p>
+  <ul>
+    <li>Improvements</li>
+    <li>Bug Fixes</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/react-hasura</p>
+
+  <h3>deep-foundation/materialized-path</h3>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/materialized-path</p>
+
+  <h3>deep-foundation/hasura</h3>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/hasura</p>
+
+  <h3>deep-foundation/capacitor-motion</h3>
+  <p>A deep package for using user's motion data. A wrapper around @capacitor/motion</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/capacitor-motion</p>
+
+  <h3>deep-foundation/capacitor-geolocation</h3>
+  <p>A deep package for using user's geolocation data. A wrapper around @capacitor/geolocation</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/capacitor-geolocation</p>
+
+  <h3>deep-foundation/capacitor-device</h3>
+  <p>A deep package for using user's device data. A wrapper around @capacitor/device</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/capacitor-device</p>
   
 </div>
