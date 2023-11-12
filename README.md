@@ -308,7 +308,7 @@
   <p>https://github.com/deep-foundation/boolean</p>
 
   <h3>deep-foundation/capacitor-voice-recorder</h3>
-  <p>A deep package for recording audio. A wrapper around capacitor-voice-recorder</p>
+  <p>A deep package and TypeScript library for recording audio. A wrapper around capacitor-voice-recorder</p>
   <ul>
     <li>Development</li>
     <li>Reviews</li>
@@ -345,7 +345,7 @@
   <p>https://github.com/deep-foundation/hasura</p>
 
   <h3>deep-foundation/capacitor-motion</h3>
-  <p>A deep package for using user's motion data. A wrapper around @capacitor/motion</p>
+  <p>A deep package and TypeScript library for using user's motion data. A wrapper around @capacitor/motion</p>
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
@@ -355,7 +355,7 @@
   <p>https://github.com/deep-foundation/capacitor-motion</p>
 
   <h3>deep-foundation/capacitor-geolocation</h3>
-  <p>A deep package for using user's geolocation data. A wrapper around @capacitor/geolocation</p>
+  <p>A deep package and TypeScript library for using user's geolocation data. A wrapper around @capacitor/geolocation</p>
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
@@ -365,7 +365,7 @@
   <p>https://github.com/deep-foundation/capacitor-geolocation</p>
 
   <h3>deep-foundation/capacitor-device</h3>
-  <p>A deep package for using user's device data. A wrapper around @capacitor/device</p>
+  <p>A deep package and TypeScript library for using user's device data. A wrapper around @capacitor/device</p>
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
@@ -490,7 +490,7 @@
   <p>https://github.com/deep-foundation/payments-tinkoff-c2b</p>
 
   <h3>deep-foundation/logger</h3>
-  <p>A deep package to log history of your links</p>
+  <p>A deep package and TypeScript library to log history of your links</p>
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
@@ -508,6 +508,18 @@
   </ul>
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/logger-test</p>
+
+  <h3>deep-foundation/firebase-push-notification</h3>
+  <p>A deep package and TypeScript library library to notify device by using firebase</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/firebase-push-notification</p>
+
+  
 
 
   
