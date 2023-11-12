@@ -397,7 +397,7 @@
   <ul>
     <li>Review, Help</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript</p>
+  <p>Tools: JavaScript, TypeScript, Deep, Json...</p>
   <p>https://github.com/deep-foundation/bun-js-docker-isolation-provider</p>
 
   <h3>deep-foundation/npm-automation</h3>
@@ -406,7 +406,7 @@
     <li>Development</li>
     <li>Github Actions</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/npm-automation</p>
 
   <h3>deep-foundation/yoptascript-docker-isolation-provider</h3>
@@ -416,7 +416,7 @@
     <li>Development</li>
     <li>Github Actions</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>Tools: JavaScript, TypeScript, Deep, Json...</p>
   <p>https://github.com/deep-foundation/yoptascript-docker-isolation-provider</p>
 
   <h3>deep-foundation/typescript-npm-package-template</h3>
@@ -426,7 +426,7 @@
     <li>Github Actions</li>
     <li>Documentation</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/typescript-npm-package-template</p>
 
   <h3>deep-foundation/create-typescript-npm-package-template</h3>
@@ -436,7 +436,7 @@
     <li>Github Actions</li>
     <li>Documentation</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/create-typescript-npm-package-template</p>
 
   <h3>deep-foundation/react-with-packages-installed</h3>
@@ -446,7 +446,7 @@
     <li>Github Actions</li>
     <li>Documentation</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/react-with-packages-installed</p>
 
   <h3>deep-foundation/react-use-are-packages-installed</h3>
@@ -456,10 +456,60 @@
     <li>Github Actions</li>
     <li>Documentation</li>
   </ul>
-  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/react-use-are-packages-installed</p>
 
-react-use-are-packages-installed
+  <h3>deep-foundation/payments-tinkoff-c2b</h3>
+  <p>A deep package to pay as client-to-business by using tinkoff</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/payments-tinkoff-c2b</p>
+
+  <h3>deep-foundation/payments-tinkoff-c2b-test</h3>
+  <p>A deep package to test <a href="https://github.com/deep-foundation/payments-tinkoff-c2b">@deep-foundation/payments-tinkoff-c2b</a> package</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/payments-tinkoff-c2b-test</p>
+
+  <h3>deep-foundation/payments-tinkoff-c2c</h3>
+  <p>A deep package to pay as client-to-client by using tinkoff</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/payments-tinkoff-c2b</p>
+
+  <h3>deep-foundation/logger</h3>
+  <p>A deep package to log history of your links</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/logger</p>
+
+  <h3>deep-foundation/logger-test</h3>
+  <p>A deep package to test <a href="https://github.com/deep-foundation/logger">@deep-foundation/logger</a> package</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/logger-test</p>
+
+
   
   
 </div>
