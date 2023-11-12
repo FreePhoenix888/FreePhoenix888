@@ -136,7 +136,7 @@
 
 </div>
 
-<h1> Main contributions:</h2>
+<h1> Main contributions/"Big" Achievements/h2>
 <div>
   <h3>SaveMyLife</h3>
   <h4>An android app to contact your friends when you are in danger</h4>
@@ -202,19 +202,23 @@
   <p>A library to convert json to doublets and vice versa.</p>
   <p>Tools: C#</p>
   <p>https://github.com/linksplatform/Data.Doublets.Json</p>
+    
   <h3>linksplatform/data.doublets.xml</h3>
   <h4>A library, console applications, tools to import xml to links storage and export xml from links storage.</h4>
   <p>A library to convert xml to doublets and vice versa.</p>
   <p>Tools: C#</p>
   <p>https://github.com/linksplatform/Data.Doublets.Xml</p>
+  
   <h3>linksplatform/data.doublets.gql</h3>
   <p>A gql server console application to work with doublets storage.</p>
   <p>Tools: C#, ASP.Net, Rust, async-graphql</p>
   <p>https://github.com/linksplatform/Data.Doublets.Gql</p>
+  
   <h3>linksplatform/data.doublets.gql.client</h3>
   <p>A gql client to work with doublets storage.</p>
   <p>Tools: C#</p>
   <p>https://github.com/linksplatform/Data.Doublets.Gql.Client</p>
+  
   <h3>linksplatform/scripts</h3>
   <ul>
     <li>One-time scripts for users</li>
@@ -222,4 +226,44 @@
   </ul>
   <p>Tools: bash</p>
   <p>https://github.com/linksplatform/Scripts</p>
+
+  <h3>deep-foundation/deep-memo</h3>
+  <p>A deep package that depents on all the required packages</p>
+  <p>Tools: Deep, Github Actions, JavaScript, TypeScript ...</p>
+  <p>https://github.com/deep-foundation/deep-memo</p>
+
+  <h3>deep-foundation/deep-memo-app</h3>
+  <p>A NextJS application for synchronizing user data to Deep</p>
+  <p>Tools: JavaScript, TypeScript, Bash, NextJS, React, Deep, Json ...</p>
+  <p>https://github.com/deep-foundation/deep-memo-app</p>
+
+  <h3>deep-foundation/deepcase, deep-foundation/deepcase-app</h3>
+  <p>A NextJS application that is considered as the main Graphical User Interface for Deep</p>
+  <ul>
+    <li>Improvements</li>
+    <li>Bugfixes</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, Bash, NextJS, React, Deep, ...</p>
+  <p>https://github.com/deep-foundation/deepcase , https://github.com/deep-foundation/deepcase-app</p>
+
+  <h3>deep-foundation/object-to-links-async-converter</h3>
+  <p>A deep package for converting object to links</p>
+  <p>Tools: JavaScript, TypeScript, Bash, Deep, Json...</p>
+  <p>https://github.com/deep-foundation/object-to-links-async-converter</p>
+
+  <h3>deep-foundation/dev</h3>
+  <p>A monorepository for running Deep</p>
+  <p>Tools: JavaScript, TypeScript, Bash, Deep, ...</p>
+  <p>https://github.com/deep-foundation/dev</p>
+
+  <h3>deep-foundation/dev</h3>
+  <p>A monorepository for running Deep</p>
+  <p>Tools: JavaScript, TypeScript, Bash, Deep, ...</p>
+  <p>https://github.com/deep-foundation/dev</p>
+
+  <h3>deep-foundation/workflows</h3>
+  <p>A collection of reusable github workflows</p>
+  <p>Tools: Yml, Github Actions, JavaScript, TypeScript ...</p>
+  <p>https://github.com/deep-foundation/workflows</p>
+  
 </div>
