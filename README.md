@@ -382,5 +382,84 @@
   </ul>
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
   <p>https://github.com/deep-foundation/store</p>
+
+  <h3>deep-foundation/sdk</h3>
+  <p>A template for creating NextJS app working with Deep</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/sdk</p>
+
+  <h3>deep-foundation/bun-js-docker-isolation-provider</h3>
+  <p>A deep package for running JavaScript/TypeScript code by using bun in docker</p>
+  <ul>
+    <li>Review, Help</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript</p>
+  <p>https://github.com/deep-foundation/bun-js-docker-isolation-provider</p>
+
+  <h3>deep-foundation/npm-automation</h3>
+  <p>A library and command line application to automate work related to npm when working with deep-packages</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/npm-automation</p>
+
+  <h3>deep-foundation/yoptascript-docker-isolation-provider</h3>
+  <p>A deep package for running yoptascript code in docker</p>
+  <ul>
+    <li>Review, Help</li>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/yoptascript-docker-isolation-provider</p>
+
+  <h3>deep-foundation/typescript-npm-package-template</h3>
+  <p>A template for creating typescript package</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/typescript-npm-package-template</p>
+
+  <h3>deep-foundation/create-typescript-npm-package-template</h3>
+  <p>A library and application to create typescript package by using <a href="https://github.com/deep-foundation/typescript-npm-package-template">typescript-npm-package-template</a></p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/create-typescript-npm-package-template</p>
+
+  <h3>deep-foundation/react-with-packages-installed</h3>
+  <p>A typescript library for react to check whether your deep package is installed. Provides the component-wrapper "WithPackagesInstalled" around hook <a href="https://github.com/deep-foundation/react-use-are-packages-installed">use-are-packages-installed</a> </p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/react-with-packages-installed</p>
+
+  <h3>deep-foundation/react-use-are-packages-installed</h3>
+  <p>A typescript library for react to check whether your deep package is installed. Provides hook "use-are-packages-installed"</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/react-use-are-packages-installed</p>
+
+react-use-are-packages-installed
+  
   
 </div>
