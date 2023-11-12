@@ -229,6 +229,10 @@
 
   <h3>deep-foundation/deep-memo</h3>
   <p>A deep package that depents on all the required packages</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
   <p>Tools: Deep, Github Actions, JavaScript, TypeScript ...</p>
   <p>https://github.com/deep-foundation/deep-memo</p>
 
@@ -255,6 +259,7 @@
     <ul>
     <li>Development</li>
     <li>Github Actions</li>
+    <li>Documentation</li>
   </ul>
   <p>Tools: JavaScript, TypeScript, Bash, Deep, Json...</p>
   <p>https://github.com/deep-foundation/object-to-links-async-converter</p>
@@ -302,21 +307,13 @@
   <p>Tools: Deep...</p>
   <p>https://github.com/deep-foundation/boolean</p>
 
-  <h3>deep-foundation/boolean</h3>
-  <p>A deep package for having boolean values</p>
-  <ul>
-    <li>Development</li>
-    <li>Github Actions</li>
-  </ul>
-  <p>Tools: Deep...</p>
-  <p>https://github.com/deep-foundation/boolean</p>
-
   <h3>deep-foundation/capacitor-voice-recorder</h3>
   <p>A deep package for recording audio. A wrapper around capacitor-voice-recorder</p>
   <ul>
     <li>Development</li>
     <li>Reviews</li>
     <li>Github Actions</li>
+    <li>Documentation</li>
   </ul>
   <p>Tools: Deep...</p>
   <p>https://github.com/deep-foundation/capacitor-voice-recorder</p>
@@ -352,6 +349,7 @@
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
+    <li>Documentation</li>
   </ul>
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
   <p>https://github.com/deep-foundation/capacitor-motion</p>
@@ -361,6 +359,7 @@
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
+    <li>Documentation</li>
   </ul>
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
   <p>https://github.com/deep-foundation/capacitor-geolocation</p>
@@ -370,8 +369,18 @@
   <ul>
     <li>Development</li>
     <li>Github Actions</li>
+    <li>Documentation</li>
   </ul>
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
   <p>https://github.com/deep-foundation/capacitor-device</p>
+
+  <h3>deep-foundation/store</h3>
+  <p>A library for saving to different stores</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml...</p>
+  <p>https://github.com/deep-foundation/store</p>
   
 </div>
