@@ -539,7 +539,69 @@
   <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
   <p>https://github.com/deep-foundation/deep-export</p>
 
+  <h3>deep-foundation/capacitor-screen-reader</h3>
+  <p>A deep package and TypeScript library to talk with user by using @capacitor/screen-reader</p>
+  <ul>
+    <li>Development</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-screen-reader</p>
 
-  
+  <h3>deep-foundation/capacitor-network</h3>
+  <p>A deep package and TypeScript library to save user's network data to Deep. A wrapper around @capacitor/network</p>
+  <ul>
+    <li>Development</li>
+    <li>Review, Help</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-network</p>
+
+  <h3>deep-foundation/capacitor-camera</h3>
+  <p>A deep package and TypeScript library to save user's photo and video captured by camera to Deep. A wrapper around @capacitor/camera</p>
+  <ul>
+    <li>Development</li>
+    <li>Review, Help</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-camera</p>
+
+  <h3>deep-foundation/capacitor-haptics</h3>
+  <p>A deep package and TypeScript library to vibrate a device. A wrapper around @capacitor/haptics</p>
+  <ul>
+    <li>Development</li>
+    <li>Review, Help</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-haptics</p>
+
+  <h3>deep-foundation/capacitor-dialog</h3>
+  <p>A deep package and TypeScript library to show dialogs and save its result to Deep. A wrapper around @capacitor/dialog</p>
+  <ul>
+    <li>Development</li>
+    <li>Review, Help</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-dialog</p>
+
+  <h3>deep-foundation/capacitor-action-sheet</h3>
+  <p>A deep package and TypeScript library to show action sheets and save its result to Deep. A wrapper around @capacitor/action-sheet</p>
+  <ul>
+    <li>Development</li>
+    <li>Review, Help</li>
+    <li>Github Actions</li>
+    <li>Documentation</li>
+  </ul>
+  <p>Tools: JavaScript, TypeScript, React, Bash, Github Actions, Yml, Deep...</p>
+  <p>https://github.com/deep-foundation/capacitor-action-sheet</p>
   
 </div>
