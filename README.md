@@ -136,7 +136,7 @@
 
 </div>
 
-<h1> Main contributions/"Big" Achievements/h2>
+<h1> Main contributions/"Big" Achievements</h2>
 <div>
   <h3>SaveMyLife</h3>
   <h4>An android app to contact your friends when you are in danger</h4>
