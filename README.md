@@ -12,6 +12,8 @@
   <li>You tell me 😉</li>
 </ul>
 
+<hr/>
+
 <h1>🤝Little description about me</h1>
 <p>
  I understand that you do not need perfect expensive code but need working program that makes your life easier to get money/time. I like to solve such problems by using automations, computers are a really powerfull tool which makes our lives better by taking some of our tasks to let us do more no-routine tasks and have time to LIVE
