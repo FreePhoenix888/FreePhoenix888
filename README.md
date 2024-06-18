@@ -55,7 +55,7 @@
   <li>Development of tests</li>
   <li>Development of benchmarks</li>
   <li>
-    Development of Benchmarks with other projects
+    Development of benchmarks with other projects
     <ul>
       <li>
         Development of
