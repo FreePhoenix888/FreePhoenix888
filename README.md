@@ -15,17 +15,6 @@
 
 <hr />
 
-<h1>🤝Little description about me</h1>
-<p>
-  <strong>I understand business needs.</strong> I understand that you do not
-  need perfect expensive code but need working program that makes your life
-  easier to get money/time. I like to solve such problems by using automation.
-  Computers are a really powerfull tool which makes our lives better by taking
-  some of our tasks to let us do more no-routine tasks and have time to LIVE
-</p>
-
-<hr />
-
 <h1>💬 Contacts:</h1>
 <div>
   <a href="https://t.me/FreePhoenix888" target="_blank">
