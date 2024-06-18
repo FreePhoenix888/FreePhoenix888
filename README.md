@@ -2,6 +2,9 @@
   <img src="https://img.icons8.com/color/48/developer--v1.png" />
 </div>
 
+<h1>👤 Who I am</h1>
+I am software engineer with 4+ years of experience below you can see short list of what I can do for you
+
 <hr />
 
 <h1>🤝 What I will do for you</h1>
