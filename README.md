@@ -146,7 +146,7 @@ of what I can do for you
 </p>
 <hr />
 
-<h2>⭐️ Deep (Jule 2022-still do)</h2>
+<h2>⭐️ <a href="https://github.com/deep-foundation">Deep</a> (Jule 2022-still do)</h2>
 <p>
   Deep is the ecocystem of many applications that unionize software by using
   links, it is the user-friendly wrapper around LinksPlatform
@@ -887,7 +887,7 @@ of what I can do for you
 
 <hr />
 
-<h2>⭐️ LinksPlatform (January 2021-still do)</h2>
+<h2>⭐️ <a href="https://github.com/linksplatform">LinksPlatform</a> (January 2021-still do)</h2>
 <p>
   LinksPlatform is the database management system that unionize software by
   using links, it is low-level database management system which is used by Deep
