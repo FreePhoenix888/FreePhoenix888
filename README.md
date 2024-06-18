@@ -3,7 +3,8 @@
 </div>
 
 <h1>👤 Who I am</h1>
-I am software engineer with 4+ years of experience. Below you can see short list of what I can do for you
+I am software engineer with 4+ years of experience. Below you can see short list
+of what I can do for you
 
 <hr />
 
@@ -38,309 +39,100 @@ I am software engineer with 4+ years of experience. Below you can see short list
 <hr />
 
 <h1>⭐️ Experience (4+ years)</h1>
-<h2>⭐️ LinksPlatform (January 2021-still do)</h2>
+<h2>⭐️ High Case Retail Shop (March 2024-still do)</h2>
 <p>
-  LinksPlatform is the database management system that unionize software by
-  using links, it is low-level database management system which is used by Deep
+  A Retail Shop that needed the whole project to be written from scratch. A
+  projects consists of postgresql database, a website for administrating (CRM),
+  store - a website to be used on "vending machines" and machines of
+  cashiers/administrators, software for working with printers and other
+  software...
 </p>
 <ul>
-  <li>Managing social networks and interacting with audiences.</li>
-  <li>Development of the architecture.</li>
-  <li>Development of the asociative theory.</li>
   <li>
-    Development of associative constructors for associative database engines
-    (Duplets, Triplets, Sequences).
-  </li>
-  <li>Writing documentation.</li>
-  <li>Conducting research and experiments.</li>
-  <li>Rewriting code to C++.</li>
-  <li>Rewriting code to Rust.</li>
-  <li>Development of tests</li>
-  <li>Development of benchmarks</li>
-  <li>
-    Development of benchmarks with other projects
+    Development of localization (languages, tralsnations)
     <ul>
+      <li>Developement of API to manage languages and translations</li>
       <li>
-        Development of
-        <a
-          href="https://github.com/linksplatform/DoubletsVsClickHouseBenchmarks"
-          >DoubletsVsClickHouseBenchmarks</a
-        >
-        - benchmarks comparing perfomance of Data.Doublets and ClickHouse
+        Development of translation manager - a VUE website page that lets manage
+        (see, create, update, delete) languages and translations. One can change
+        name, flag code, objects and locations of a language or add a new
+        language or delete a language or cancel one/all changes or save one/all
+        changes. One can add new translation, update existing one, can use
+        auto-translation when updating a translation, delete a translation or
+        cancel one/all changes or save one/all changes
       </li>
     </ul>
   </li>
   <li>
-    Development of the core of the system
+    Develpment of POS printing system
     <ul>
       <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data.Doublets"
-          >Data.Doublets</a
-        >
-        - the library to manage doublets database
+        Development of handlebarjs templates for POS printings
+        <ul>
+          <li>Check</li>
+          <li>Order</li>
+          <li>Inventory</li>
+          <li>Remains</li>
+          <li>Purchase Invoice</li>
+          <li>Sales Invoice</li>
+          <li>Goods Movement</li>
+        </ul>
       </li>
       <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data">Data</a>
-        - the library that contains core functionality for any associative
-        implementation, for example
-        <a href="https://github.com/linksplatform/Data.Doublets"
-          >Data.Doublets</a
-        >
-        and
-        <a href="https://github.com/linksplatform/Data.Triplets"
-          >Data.Triplets</a
-        >
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data.Doublets.Gql"
-          >Data.Doublets.Gql</a
-        >
-        - the library to manage doublets by using GraphQL
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Threading">Threading</a> - the
-        library which provides advanced threading functionality for concurrent
-        programming
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Numbers">Numbers</a> - the
-        library which provides functionality for working with numbers
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Setters">Setters</a> - the
-        library which provides common setters that are going to be used as
-        handlers for CRUD operations
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Collections">Collections</a> -
-        the library which provides various implementations of collections
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Timestamps">Timestamps</a> -
-        the library which provides functionality for working with timestamps
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Interfaces">Interfaces</a> -
-        the library which provides common interfaces
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Random">Random</a> - the
-        library which provides functionality to generate random numbers
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Ranges">Ranges</a> - the
-        library which provides functionality for working with ranges
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Disposables">Disposables</a> -
-        the library which helps to make objects disposable in a fast, short,
-        easy and safe way
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Exceptions">Exceptions</a> -
-        the library which helps working with Exceptions
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Reflection">Reflection</a> -
-        the library which helps helps working with Reflections
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Converters">Converters</a> -
-        the library which provides functionality to convert one type of link to
-        another (number to number)
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Singletons">Singletons</a> -
-        the library which helps working with Singletons
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/IO">IO</a> - the library which
-        helps working with IO (input-output operations)
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Collections.Methods"
-          >Collections.Methods</a
-        >
-        - the library which provides abstractions of methods for working with
-        collections
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Collections.Methods"
-          >Collections.Methods</a
-        >
-        - the library which provides methods for collections (lists and trees)
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data.Doublets.Sequences"
-          >Data.Doublets.Sequences</a
-        >
-        - the library which provides functionality for working with sequences
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Memory">Memory</a> - the
-        library which provides functionality for memory management
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/CSharpToCppTranslator"
-          >CSharpToCppTranslator</a
-        >
-        - the CLI application to translate C# code to C++ code
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Bot/tree/main/csharp/Platform.Bot"
-          >Github Bot</a
-        >
-        - the CLI application to automate various actions that run by triggers
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Bot/tree/AddDiscrodBot/csharp/DiscordBot"
-          >Discord Bot</a
-        >
-        - the CLI application to add new programmers to LinksPlatform team from
-        discord to GitHub's organization
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Bot/tree/main/csharp/TraderBot"
-          >Tinkoff Trader Bot</a
-        >
-        - the CLI application to automate trading on Tinkoff Trade Platform.
-        Implements specific scalper strategy
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Protocols.Lino"
-          >Protocols.Lino</a
-        >
-        - the library which provides core functionality of the LINO protocol
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data.Doublets.Lino"
-          >Data.Doublets.Lino</a
-        >
-        - the CLI application to convert LINO to doublet links, doublet links to
-        LINO
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data.Doublets.JSON"
-          >Data.Doublets.JSON</a
-        >
-        - the CLI application to convert JSON to doublet links, doublet links to
-        JSON
-      </li>
-      <li>
-        Development of the
-        <a href="https://github.com/linksplatform/Data.Doublets.XML"
-          >Data.Doublets.XML</a
-        >
-        - the CLI application to convert XML to doublet links, doublet links to
-        XML
+        Integrated printing functionality into the store Website to let a
+        cashier/administrator print document
       </li>
     </ul>
   </li>
   <li>
-    DevOps/Automation
+    Development of logging system
     <ul>
-      <li>Maintaining CI\CD of all 87+ repositories</li>
-      <li>
-        Development of Github Actions workflows to build, test, generate
-        documentation, readme, dockerize, publish
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/build-csharp.yml"
-          >build-csharp.yml</a
-        >
-        - a GitHub Action Workflow to build C# code
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/csharp.yml"
-          >csharp.yml</a
-        >
-        - a GitHub Action Workflow to install dependencies, build, test, publish
-        C# code
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/cpp-test.yml"
-          >cpp-test.yml</a
-        >
-        - a GitHub Action Workflow to build C++ code
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/deploy-cpp.yml"
-          >deploy-cpp.yml</a
-        >
-        - a GitHub Action Workflow to deploy C++ code
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/get-cpp-conan-package-info.yml"
-          >get-cpp-conan-package-info.yml</a
-        >
-        - a GitHub Action Workflow to get conan package info
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/get-cpp-package-info.yml"
-          >get-cpp-package-info.yml</a
-        >
-        - a GitHub Action Workflow to get C++ package info
-      </li>
-      <li>
-        Development of the
-        <a
-          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/cpp.yml"
-          >cpp.yml</a
-        >
-        - a GitHub Action Workflow to install dependencies, build, test, publish
-        C++ code
-      </li>
+      <li>Added real ip to network request logs</li>
+      <li>Added warning for long-processed network requests</li>
     </ul>
   </li>
+  <li>Changed generation of barcodes</li>
+  <li>Added properties of goods</li>
+  <li>Changed store website to update to new version</li>
+  <li>Made store to use stub image if no image is available</li>
   <li>
-    Other tasks you can see
-    <a
-      href="https://github.com/search?q=user%3Alinksplatform+assignee%3Afreephoenix888+fork%3Atrue+state%3Aclosed&type=issues&ref=advsearch"
-      >here</a
-    >
+    Added a functionality to set sort of languages for any store on specific
+    object, location
+  </li>
+  <li>
+    Added a functionality to set order deletion reasons for any store on
+    specific object, location
+  </li>
+  <li>
+    Fixed bugs
+    <ul>
+      <li>
+        Fixed a bug of CRM: some correspondents were not visible cause of their
+        relation to objects, locations
+      </li>
+      <li>Fixed a bug of CRM: goods were not visible</li>
+      <li>Fixed warning of API documentation</li>
+      <li>
+        Fixed a bug of CRM: if you create a category of goods that will be
+        deleted earlier - you will get error
+      </li>
+      <li>
+        Fixed bug of store: kiosk/administrator could not process arrival of
+        goods cause of an error "Wrong state of arrival to issue"
+      </li>
+      <li>
+        Fixed a bug of store: after a selective inventory - it still persists
+        instead of being flagged as finished
+      </li>
+      <li>
+        Fixed a bug of CRM: we have been getting deleted (we use soft-deleting)
+        data
+      </li>
+      <li>
+        Fixed a bug of store: if cashier/administrator deletes a product from an
+        order - order is not deleted
+      </li>
+    </ul>
   </li>
   <li>
     I did a lot of other work that along the way, but I didn’t write it down
@@ -348,10 +140,9 @@ I am software engineer with 4+ years of experience. Below you can see short list
   </li>
 </ul>
 <p>
-  <strong>Skills, technologies and tools:</strong> C#, C/C++, Rust, Python,
-  PyPi, Docker, NPM, Git, GitHub, GitHub Actions, HTML, CSS, Unix shell, LaTeX,
-  TeX, SQL, PostgreSQL, Hasura, GraphQL, Linux, Windows, Electron, Capacitor,
-  Apache Cordova.
+  <strong>Skills, technologies and tools:</strong> SQL, PostgreSQL, JavaScript,
+  TypeScript, VueJS, GitLab, Docker, NPM, Git, Swagger, jsdoc, HTML, CSS, Unix
+  shell, Linux
 </p>
 <hr />
 
@@ -1096,108 +887,320 @@ I am software engineer with 4+ years of experience. Below you can see short list
 
 <hr />
 
-<h2>⭐️ Private Retail Shop (March 2024-still do)</h2>
+<h2>⭐️ LinksPlatform (January 2021-still do)</h2>
 <p>
-  A Retail Shop that needed the whole project to be written from scratch. A
-  projects consists of postgresql database, a website for administrating (CRM),
-  store - a website to be used on "vending machines" and machines of
-  cashiers/administrators, software for working with printers and other
-  software...
+  LinksPlatform is the database management system that unionize software by
+  using links, it is low-level database management system which is used by Deep
 </p>
 <ul>
+  <li>Managing social networks and interacting with audiences.</li>
+  <li>Development of the architecture.</li>
+  <li>Development of the asociative theory.</li>
   <li>
-    Development of localization (languages, tralsnations)
+    Development of associative constructors for associative database engines
+    (Duplets, Triplets, Sequences).
+  </li>
+  <li>Writing documentation.</li>
+  <li>Conducting research and experiments.</li>
+  <li>Rewriting code to C++.</li>
+  <li>Rewriting code to Rust.</li>
+  <li>Development of tests</li>
+  <li>Development of benchmarks</li>
+  <li>
+    Development of benchmarks with other projects
     <ul>
-      <li>Developement of API to manage languages and translations</li>
       <li>
-        Development of translation manager - a VUE website page that lets manage
-        (see, create, update, delete) languages and translations. One can change
-        name, flag code, objects and locations of a language or add a new
-        language or delete a language or cancel one/all changes or save one/all
-        changes. One can add new translation, update existing one, can use
-        auto-translation when updating a translation, delete a translation or
-        cancel one/all changes or save one/all changes
+        Development of
+        <a
+          href="https://github.com/linksplatform/DoubletsVsClickHouseBenchmarks"
+          >DoubletsVsClickHouseBenchmarks</a
+        >
+        - benchmarks comparing perfomance of Data.Doublets and ClickHouse
       </li>
     </ul>
   </li>
   <li>
-    Develpment of POS printing system
+    Development of the core of the system
     <ul>
       <li>
-        Development of handlebarjs templates for POS printings
-        <ul>
-          <li>Check</li>
-          <li>Order</li>
-          <li>Inventory</li>
-          <li>Remains</li>
-          <li>Purchase Invoice</li>
-          <li>Sales Invoice</li>
-          <li>Goods Movement</li>
-        </ul>
+        Development of the
+        <a href="https://github.com/linksplatform/Data.Doublets"
+          >Data.Doublets</a
+        >
+        - the library to manage doublets database
       </li>
       <li>
-        Integrated printing functionality into the store Website to let a
-        cashier/administrator print document
+        Development of the
+        <a href="https://github.com/linksplatform/Data">Data</a>
+        - the library that contains core functionality for any associative
+        implementation, for example
+        <a href="https://github.com/linksplatform/Data.Doublets"
+          >Data.Doublets</a
+        >
+        and
+        <a href="https://github.com/linksplatform/Data.Triplets"
+          >Data.Triplets</a
+        >
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Data.Doublets.Gql"
+          >Data.Doublets.Gql</a
+        >
+        - the library to manage doublets by using GraphQL
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Threading">Threading</a> - the
+        library which provides advanced threading functionality for concurrent
+        programming
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Numbers">Numbers</a> - the
+        library which provides functionality for working with numbers
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Setters">Setters</a> - the
+        library which provides common setters that are going to be used as
+        handlers for CRUD operations
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Collections">Collections</a> -
+        the library which provides various implementations of collections
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Timestamps">Timestamps</a> -
+        the library which provides functionality for working with timestamps
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Interfaces">Interfaces</a> -
+        the library which provides common interfaces
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Random">Random</a> - the
+        library which provides functionality to generate random numbers
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Ranges">Ranges</a> - the
+        library which provides functionality for working with ranges
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Disposables">Disposables</a> -
+        the library which helps to make objects disposable in a fast, short,
+        easy and safe way
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Exceptions">Exceptions</a> -
+        the library which helps working with Exceptions
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Reflection">Reflection</a> -
+        the library which helps helps working with Reflections
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Converters">Converters</a> -
+        the library which provides functionality to convert one type of link to
+        another (number to number)
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Singletons">Singletons</a> -
+        the library which helps working with Singletons
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/IO">IO</a> - the library which
+        helps working with IO (input-output operations)
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Collections.Methods"
+          >Collections.Methods</a
+        >
+        - the library which provides abstractions of methods for working with
+        collections
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Collections.Methods"
+          >Collections.Methods</a
+        >
+        - the library which provides methods for collections (lists and trees)
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Data.Doublets.Sequences"
+          >Data.Doublets.Sequences</a
+        >
+        - the library which provides functionality for working with sequences
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Memory">Memory</a> - the
+        library which provides functionality for memory management
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/CSharpToCppTranslator"
+          >CSharpToCppTranslator</a
+        >
+        - the CLI application to translate C# code to C++ code
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Bot/tree/main/csharp/Platform.Bot"
+          >Github Bot</a
+        >
+        - the CLI application to automate various actions that run by triggers
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Bot/tree/AddDiscrodBot/csharp/DiscordBot"
+          >Discord Bot</a
+        >
+        - the CLI application to add new programmers to LinksPlatform team from
+        discord to GitHub's organization
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Bot/tree/main/csharp/TraderBot"
+          >Tinkoff Trader Bot</a
+        >
+        - the CLI application to automate trading on Tinkoff Trade Platform.
+        Implements specific scalper strategy
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Protocols.Lino"
+          >Protocols.Lino</a
+        >
+        - the library which provides core functionality of the LINO protocol
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Data.Doublets.Lino"
+          >Data.Doublets.Lino</a
+        >
+        - the CLI application to convert LINO to doublet links, doublet links to
+        LINO
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Data.Doublets.JSON"
+          >Data.Doublets.JSON</a
+        >
+        - the CLI application to convert JSON to doublet links, doublet links to
+        JSON
+      </li>
+      <li>
+        Development of the
+        <a href="https://github.com/linksplatform/Data.Doublets.XML"
+          >Data.Doublets.XML</a
+        >
+        - the CLI application to convert XML to doublet links, doublet links to
+        XML
       </li>
     </ul>
   </li>
   <li>
-    Development of logging system
+    DevOps/Automation
     <ul>
-      <li>Added real ip to network request logs</li>
-      <li>Added warning for long-processed network requests</li>
+      <li>Maintaining CI\CD of all 87+ repositories</li>
+      <li>
+        Development of Github Actions workflows to build, test, generate
+        documentation, readme, dockerize, publish
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/build-csharp.yml"
+          >build-csharp.yml</a
+        >
+        - a GitHub Action Workflow to build C# code
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/csharp.yml"
+          >csharp.yml</a
+        >
+        - a GitHub Action Workflow to install dependencies, build, test, publish
+        C# code
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/cpp-test.yml"
+          >cpp-test.yml</a
+        >
+        - a GitHub Action Workflow to build C++ code
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/deploy-cpp.yml"
+          >deploy-cpp.yml</a
+        >
+        - a GitHub Action Workflow to deploy C++ code
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/get-cpp-conan-package-info.yml"
+          >get-cpp-conan-package-info.yml</a
+        >
+        - a GitHub Action Workflow to get conan package info
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/get-cpp-package-info.yml"
+          >get-cpp-package-info.yml</a
+        >
+        - a GitHub Action Workflow to get C++ package info
+      </li>
+      <li>
+        Development of the
+        <a
+          href="https://github.com/linksplatform/Workflows/blob/main/.github/workflows/cpp.yml"
+          >cpp.yml</a
+        >
+        - a GitHub Action Workflow to install dependencies, build, test, publish
+        C++ code
+      </li>
     </ul>
   </li>
-  <li>Changed generation of barcodes</li>
-  <li>Added properties of goods</li>
-  <li>Changed store website to update to new version</li>
-  <li>Made store to use stub image if no image is available</li>
   <li>
-    Added a functionality to set sort of languages for any store on specific
-    object, location
+    Other tasks you can see
+    <a
+      href="https://github.com/search?q=user%3Alinksplatform+assignee%3Afreephoenix888+fork%3Atrue+state%3Aclosed&type=issues&ref=advsearch"
+      >here</a
+    >
   </li>
-  <li>
-    Added a functionality to set order deletion reasons for any store on
-    specific object, location
-  </li>
-  <ul>
-    Fixed bugs
-    <li>
-      Fixed a bug of CRM: some correspondents were not visible cause of their
-      relation to objects, locations
-    </li>
-    <li>Fixed a bug of CRM: goods were not visible</li>
-    <li>Fixed warning of API documentation</li>
-    <li>
-      Fixed a bug of CRM: if you create a category of goods that will be deleted
-      earlier - you will get error
-    </li>
-    <li>
-      Fixed bug of store: kiosk/administrator could not process arrival of goods
-      cause of an error "Wrong state of arrival to issue"
-    </li>
-    <li>
-      Fixed a bug of store: after a selective inventory - it still persists
-      instead of being flagged as finished
-    </li>
-    <li>
-      Fixed a bug of CRM: we have been getting deleted (we use soft-deleting)
-      data
-    </li>
-    <li>
-      Fixed a bug of store: if cashier/administrator deletes a product from an
-      order - order is not deleted
-    </li>
-  </ul>
   <li>
     I did a lot of other work that along the way, but I didn’t write it down
     anywhere and don’t remember
   </li>
 </ul>
 <p>
-  <strong>Skills, technologies and tools:</strong> SQL, PostgreSQL, JavaScript,
-  TypeScript, VueJS, GitLab, Docker, NPM, Git, Swagger, jsdoc, HTML, CSS, Unix
-  shell, Linux
+  <strong>Skills, technologies and tools:</strong> C#, C/C++, Rust, Python,
+  PyPi, Docker, NPM, Git, GitHub, GitHub Actions, HTML, CSS, Unix shell, LaTeX,
+  TeX, SQL, PostgreSQL, Hasura, GraphQL, Linux, Windows, Electron, Capacitor,
+  Apache Cordova.
 </p>
 <hr />
 
