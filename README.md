@@ -141,7 +141,7 @@ of what I can do for you
 </ul>
 <p>
   <strong>Skills, technologies and tools:</strong> SQL, PostgreSQL, JavaScript,
-  TypeScript, VueJS, GitLab, Docker, NPM, Git, Swagger, jsdoc, HTML, CSS, Unix
+  TypeScript, VueJS, GitLab, Docker, Docker Compose, NPM, Git, Swagger, jsdoc, HTML, CSS, Unix
   shell, Linux
 </p>
 <hr />
