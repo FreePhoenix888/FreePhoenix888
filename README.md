@@ -38,8 +38,70 @@ of what I can do for you
 
 <hr />
 
-<h1>⭐️ Experience (4+ years)</h1>
+<h1>⭐️ Experience (Long variant) (4+ years)</h1>
 <h2>⭐️ High Case Retail Shop (March 2024-still do)</h2>
+<p>
+  A Retail Shop that needed the whole project to be written from scratch. A
+  projects consists of postgresql database, a website for administrating (CRM),
+  store - a website to be used on "vending machines" and machines of
+  cashiers/administrators, software for working with printers and other
+  software...
+</p>
+<p>
+  Refactored code, added features, fixed bugs.
+The most memorable of the new features: a visual manager for languages and translations; document printing.
+
+<strong>Skills, technologies, and tools:</strong> SQL, PostgreSQL, JavaScript, TypeScript, NodeJS, VueJS, GitLab, Docker, Docker Compose, NPM, Git, Swagger, jsdoc, HTML, CSS, Unix, Linux
+</p>
+
+<hr/>
+
+<h2>⭐️ High Case Retail Shop (March 2024-still do)</h2>
+<p>
+ Deep is the ecocystem of many applications that unionize software by using
+  links, it is the user-friendly wrapper around LinksPlatform
+</p>
+<p>
+Did everything that needed to be done:
+- Developed the core of the project . Fixed bugs. Refactored code.
+- Led development. Assisted. Engaged in pair programming. Conducted reviews.
+- Wrote many diverse documented libraries and console applications with testing and CI/CD using GitHub Actions. Some libraries support React.
+- Maintained the operability of most repositories.
+- Maintained the CI/CD operability in all repositories.
+- Developed demonstration visual projects:
+  - deep-memo - a cross-platform application synchronizing data from device sensors with Deep
+  - gpt 4o Telegram bot
+  - gpt 4o messenger directly in Deep
+  - gpt 4o Discord bot
+- Developed Deep-ecosystem packages in various languages with different functionalities (each package in Deep represents data and functionality through links with the beginning and the end, so to speak DDD - Data Driven Development)
+- and much more
+
+<strong>Skills, technologies, and tools:</strong> JavaScript, TypeScript, Docker, NPM, Git, GitHub, GitHub Actions, NextJS, ExpressJS, jsdoc, Rust, C/C++, Python, PyPi, Kotlin, HTML, CSS, ReactJS, Android Studio, Unix shell, LaTeX, TeX, Selectel, Kubernetes, SQL, PostgreSQL, Hasura, GraphQL, minio, HasuraStorage, Elasticsearch, Android, Linux, Windows, Electron, Capacitor, Apache Cordova
+</p>
+
+<hr/>
+
+<h2>⭐️ <a href="https://github.com/linksplatform">LinksPlatform</a> (January 2021-still do)</h2>
+<p>
+ LinksPlatform is the database management system that unionize software by
+  using links, it is low-level database management system which is used by Deep
+</p>
+<p>
+Did everything that needed to be done:
+- Developed the core of the project. Fixed bugs. Refactored code.
+- Led development. Assisted. Engaged in pair programming. Conducted reviews.
+- Wrote many diverse documented libraries and console applications with testing and CI/CD using GitHub Actions.
+- Maintained the operability of most repositories.
+- Supported the operability of CI/CD in all repositories.
+- Conducted benchmark comparisons with other DBMS.
+
+<strong>Skills, technologies, and tools:</strong> C#, C/C++, Rust, Python, PyPi, Docker, NPM, Git, GitHub, GitHub Actions, HTML, CSS, Unix shell, LaTeX, TeX, SQL, PostgreSQL, Hasura, GraphQL, Linux, Windows
+</p>
+
+<hr/>
+
+<h1>⭐️ Experience (Long variant) (4+ years)</h1>
+<h2>⭐️ <a href="https://github.com/deep-foundation">Deep</a> (Jule 2022-still do)</h2>
 <p>
   A Retail Shop that needed the whole project to be written from scratch. A
   projects consists of postgresql database, a website for administrating (CRM),
