@@ -56,7 +56,7 @@ The most memorable of the new features: a visual manager for languages and trans
 
 <hr/>
 
-<h2>⭐️ High Case Retail Shop (March 2024-still do)</h2>
+<h2>⭐️ <a href="https://github.com/deep-foundation">Deep</a> (Jule 2022-still do)</h2>
 <p>
  Deep is the ecocystem of many applications that unionize software by using
   links, it is the user-friendly wrapper around LinksPlatform
