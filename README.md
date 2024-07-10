@@ -3,7 +3,7 @@
 </div>
 
 <h1>👤 Who I am</h1>
-I am software engineer with 4+ years of experience. Below you can see short list
+I am a software engineer with 4+ years of experience. Below you can see short list
 of what I can do for you
 
 <hr />
